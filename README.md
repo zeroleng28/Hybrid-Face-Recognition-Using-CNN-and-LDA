@@ -25,7 +25,6 @@ Tested on a custom dataset of Blackpink members and evaluated on real-world web 
 - Real-world image testing for generalization
 
 ## 🛠️ Getting Started
-- Download https://drive.google.com/file/d/1r0hQM5JVAmLQip_paLEnHtIL2IF3c0O_/view?usp=drive_link 
-- After downloading, place it inside Deployment folder
-
-* Private dataset of celebrity images (not included). Replace with your own dataset for testing. *
+- Download best_model.pth (https://drive.google.com/file/d/1r0hQM5JVAmLQip_paLEnHtIL2IF3c0O_/view?usp=drive_link 
+- After downloading, place it inside Deployment folder)
+- Dataset: https://drive.google.com/drive/folders/1bk4CwJHwPMiW3mxaU_eYjX4BS2cRl9RW?usp=sharing
